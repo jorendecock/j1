@@ -214,7 +214,7 @@ export const info = {
   photos: [
     { src: "/images/project-01/foto0a.JPG", size: "L" as ProjectSize, align: "left" as ProjectAlign },
     { src: "/images/project-01/foto0b.JPG", size: "M" as ProjectSize, align: "right" as ProjectAlign },
-    { src: "/images/project-01/foto0c.JPG", size: "L" as ProjectSize, align: "left" as ProjectAlign },
+    { src: "/images/project-01/foto0c.JPG", size: "M" as ProjectSize, align: "left" as ProjectAlign },
     { src: "/images/project-01/foto0d.JPG", size: "S" as ProjectSize, align: "center" as ProjectAlign },
   ],
   links: [
