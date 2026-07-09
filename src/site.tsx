@@ -214,8 +214,8 @@ export const info = {
   photos: [
     { src: BASE_PATH +  "foto0a.jpeg", size: "M" as ProjectSize, align: "left" as ProjectAlign },
     { src: BASE_PATH +  "foto0b.JPEG", size: "M" as ProjectSize, align: "right" as ProjectAlign },
-    { src: BASE_PATH +  "/images/info/foto0c.jpeg", size: "M" as ProjectSize, align: "left" as ProjectAlign },
-    { src: BASE_PATH +  "/images/info/foto0d.jpg", size: "S" as ProjectSize, align: "center" as ProjectAlign },
+    { src: BASE_PATH +  "images/info/foto0c.jpeg", size: "M" as ProjectSize, align: "left" as ProjectAlign },
+    { src: BASE_PATH +  "images/info/foto0d.jpg", size: "S" as ProjectSize, align: "center" as ProjectAlign },
   ],
   links: [
     { label: "instagram", url: "https://www.instagram.com/jorendecock" },
