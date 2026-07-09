@@ -22,4 +22,4 @@
 //  dan gewoon op "/".
 // ============================================================
 
-export const BASE_PATH = "/jorendecock.archi/";
+export const BASE_PATH = "/j1/";
