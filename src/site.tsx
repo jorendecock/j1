@@ -212,8 +212,8 @@ export const info = {
   about:
     "Op deze website verzamel ik verschillende projecten die ik als architect in opleiding aan de KU Leuven heb gemaakt, zowel binnen als buiten de opleiding. Je kan het zien als een soort portfolio van werk waar ik trots op ben. Bij sommige projecten vloeiden er meer uren en zweet in dan bij andere. Naast schoolopdrachten vind je hier misschien ook persoonlijke projecten die voortkomen uit mijn eigen interesse. Die hebben misschien niet rechtstreeks te maken met mijn opleiding, maar hebben wel altijd een link met de richting architectuur. Hoewel ik deze site in de eerste plaats voor mezelf heb opgebouwd, is iedereen welkom om een kijkje te nemen.",
   photos: [
-    { src: "/images/project-01/foto0a.jpg", size: "M" as ProjectSize, align: "left" as ProjectAlign },
-    { src: "/images/project-01/foto0b.jpg", size: "L" as ProjectSize, align: "right" as ProjectAlign },
+    { src: "/images/project-01/foto0a.jpg", size: "L" as ProjectSize, align: "left" as ProjectAlign },
+    { src: "/images/project-01/foto0b.jpg", size: "M" as ProjectSize, align: "right" as ProjectAlign },
     { src: "/images/project-01/foto0c.jpg", size: "L" as ProjectSize, align: "left" as ProjectAlign },
     { src: "/images/project-01/foto0d.jpg", size: "S" as ProjectSize, align: "center" as ProjectAlign },
   ],
