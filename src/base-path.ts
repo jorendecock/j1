@@ -22,4 +22,4 @@
 //  dan gewoon op "/".
 // ============================================================
 
-export const BASE_PATH = "/j1/";
+export const BASE_PATH = "/";
