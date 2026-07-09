@@ -216,7 +216,7 @@ export const info = {
     { src: / +  "foto0b.JPEG", size: "M" as ProjectSize, align: "right" as ProjectAlign },
     { src: / +  "foto0c.jpeg", size: "S" as ProjectSize, align: "left" as ProjectAlign },
     { src: / +  "foto0d.jpg", size: "S" as ProjectSize, align: "center" as ProjectAlign },
-    { src: "foto0f.JPEG", size: "L" as ProjectSize, align: "right" as ProjectAlign },
+    { src: / +  "foto0f.JPEG", size: "L" as ProjectSize, align: "right" as ProjectAlign },
   ],
   links: [
     { label: "instagram", url: "https://www.instagram.com/jorendecock" },
