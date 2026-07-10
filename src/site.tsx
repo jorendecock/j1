@@ -188,11 +188,12 @@ export const projects: Project[] = [
   { id: "project-17", title: "Bar", year: "Ontwerp I - 29102024" , size: "L", align: "right",
     cover: "foto2a.JPEG",
     description: "In de binnentuin van het klooster in de Hoogstraat in Gent ontworpen we een bar. Daarbij was het belangrijk om, via observaties van de tuin, bepaalde kenmerken te selecteren waarmee je het ontwerp van de bar kon laten samenvloeien met de bestaande structuur, zodat het geheel past binnen het bestaande gebouw. Ik heb ervoor gekozen om mijn bar in een van de hoeken van de binnentuin te plaatsen. Als vertrekpunt gebruikte ik de afmetingen tussen elementen op de gevel, en nam die over als basis voor de afmetingen van mijn ontwerp. Daarnaast heb ik twee witte lijnen die over de volledige gevel van het binnenhof lopen, doorgetrokken in het ontwerp van mijn bar, zodat er een visuele continuïteit ontstaat tussen oud en nieuw.", 
-    images: DEMO },
+    images: [ "foto1f.JPEG", "foto1b.jpeg", "foto1c.jpeg", "foto1d.jpeg", "foto1e.jpeg", "foto1a.JPEG", "foto1g.JPEG", "foto1h.JPEG", ]  },
   { id: "project-18", title: "Extentie 1op1/Verschaald", year: "Ontwerp I - 11102024", size: "M", align: "left",
     cover: "foto1f.JPEG",
     description: "De eerste ontwerpopdracht bestond uit twee delen. In deel één ontwierp ik samen met medestudent Tristen Cremers een extensie die aansloot bij het klooster aan de Hoogstraat, de locatie van ons project. In deel twee werkten we individueel verder: we vertaalden kenmerken van de gezamenlijke extensie naar abstracte, verschaalde vormen. Tegen het einde kregen deze opnieuw een gevoel van schaal door toevoeging van schaalfiguren.",
     images: [ "foto1f.JPEG", "foto1b.jpeg", "foto1c.jpeg", "foto1d.jpeg", "foto1e.jpeg", "foto1a.JPEG", "foto1g.JPEG", "foto1h.JPEG", ] },
+];
 
 // ============================================================
 //  3. INFO
