@@ -121,7 +121,7 @@ export const projects: Project[] = [
     align: "left",
     cover: "foto19a.jpg",
     description: "Samen met Leonardo Spreutels en Olivia Kemel maakten we een intelligente ruine waarbij tal van functies gestappeld werden. Modulariteit vormt de leidraad binnen dit project: niet alleen voor het initiële gebruik, maar vooral ook voor de levensvatbaarheid op lange termijn.Het ontwerp streeft naar een flexibele ruimtelijke structuur die toekomstige aanpassingen mogelijk maakt, zonder de kwaliteiten van de bestaande toestand te verliezen. We ontwierpen een speelse plattegrond en circulatiesysteem, met als doel verbindingen en transparantie te creëren tussen het publieke domein en het programma. Die openheid wordt zowel in plan als in doorsnede uitgewerkt: via dubbele en driedubbele hoogtes, niveauverschillen binnen dezelfde verdieping, doorzichten en overlappende routes. Zo wordt niet alleen de functionele organisatie versterkt, maar ook de ruimtelijke ervaring. Daarbij wordt telkens gewerkt met een wisselend grid, zowel in plan als in snede. Dit grid ondersteunt de modulariteit, maar laat tegelijk ruimte voor variatie, spel en onverwachte relaties tussen de verschillende programmaonderdelen. De oorspronkelijke structuur krijgt een nieuwe rol: ze wordt niet louter behouden als dragend element, maar actief ingezet als ruimtestructurerend principe. Zo ontstaat een ontwerp waarin flexibiliteit en ruimtelijke beleving elkaar versterken. Bij de afbeeldingen hieronder vind je een korte versie van ons eind PDF weer" ,
-    images: [ "foto17a.jpg", ]
+    images: [ "foto17a.jpg", ],
   },
   { id: "project-02", title: "Corycopsis Spicata", year: "Expressie IV - 20052026", size: "M", align: "right",
     cover: "foto18a.jpg",
@@ -190,7 +190,7 @@ export const projects: Project[] = [
   { id: "project-18", title: "Extentie 1op1/Verschaald", year: "Ontwerp I - 11102024", size: "M", align: "left",
     cover: "foto1f.JPEG",
     description: "De eerste ontwerpopdracht bestond uit twee delen. In deel één ontwierp ik samen met medestudent Tristen Cremers een extensie die aansloot bij het klooster aan de Hoogstraat, de locatie van ons project. In deel twee werkten we individueel verder: we vertaalden kenmerken van de gezamenlijke extensie naar abstracte, verschaalde vormen. Tegen het einde kregen deze opnieuw een gevoel van schaal door toevoeging van schaalfiguren.",
-    images: [ "foto1f.JPEG", "foto1b.jpeg", "foto1c.jpeg", "foto1d.jpeg", "foto1e.jpeg", "foto1a.JPEG", "foto1g.JPEG", "foto1h.JPEG", ] },
+    images: [ "foto1f.JPEG", "foto1b.jpeg", "foto1c.jpeg", "foto1d.jpeg", "foto1e.jpeg", "foto1a.JPEG", "foto1g.JPEG", "foto1h.JPEG", ], },
 ];
 
 // ============================================================
