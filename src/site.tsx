@@ -528,11 +528,10 @@ export function ProjectsIndex() {
 // ------------------------------------------------------------
 
 export function ProjectDetail({ project }: { project: Project }) {
-  const media: { type: "img" | "video"; src: string }[] = [
-    { type: "img", src: project.cover },
-    ...(project.images ?? []).map((src) => ({ type: "img" as const, src })),
-    ...(project.videos ?? []).map((src) => ({ type: "video" as const, src })),
-  ];
+ const media: { type: "img" | "video"; src: string }[] = [
+  ...(project.images ?? []).map((src) => ({ type: "img" as const, src })),
+  ...(project.videos ?? []).map((src) => ({ type: "video" as const, src })),
+];
 
   return (
     <article className="px-5 pb-32 pt-4">
