@@ -373,14 +373,14 @@ export const projects: Project[] = [
     cover: "foto1f.JPEG",
     description: "De eerste ontwerpopdracht bestond uit twee delen. In deel één ontwierp ik samen met medestudent Tristen Cremers een extensie die aansloot bij het klooster aan de Hoogstraat, de locatie van ons project. In deel twee werkten we individueel verder: we vertaalden kenmerken van de gezamenlijke extensie naar abstracte, verschaalde vormen. Tegen het einde kregen deze opnieuw een gevoel van schaal door toevoeging van schaalfiguren.",
     images: [
-                    "BASE_PATH + images/foto1f.JPEG",
-                    "BASE_PATH + images/foto1b.jpeg",
-                    "BASE_PATH + images/foto1c.jpeg",
-                    "BASE_PATH + images/foto1d.jpeg",
-                    "BASE_PATH + images/foto1e.jpeg",
-                    "BASE_PATH + images/foto1a.JPEG",
-                    "BASE_PATH + images/foto1g.JPEG",
-                    "BASE_PATH + images/foto1h.JPEG"
+                    "foto1f.JPEG",
+                    "foto1b.jpeg",
+                    "foto1c.jpeg",
+                    "foto1d.jpeg",
+                    "foto1e.jpeg",
+                    "/foto1a.JPEG",
+                    "/foto1g.JPEG",
+                    "/foto1h.JPEG"
                 ]
             }
 
