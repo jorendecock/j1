@@ -147,7 +147,6 @@ export const projects: Project[] = [
     images: [
                     "/foto16a.jpg",
                     "/foto16b.jpg",
-                    "/foto16c.jpg",
                     "/foto16d.jpg",
                     "/foto16e.jpg",
                     "/foto16f.jpg",
