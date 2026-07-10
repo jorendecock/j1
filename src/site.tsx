@@ -121,7 +121,12 @@ export const projects: Project[] = [
     align: "left",
     cover: "foto19a.jpg",
     description: "Samen met Leonardo Spreutels en Olivia Kemel maakten we een intelligente ruine waarbij tal van functies gestappeld werden. Modulariteit vormt de leidraad binnen dit project: niet alleen voor het initiële gebruik, maar vooral ook voor de levensvatbaarheid op lange termijn.Het ontwerp streeft naar een flexibele ruimtelijke structuur die toekomstige aanpassingen mogelijk maakt, zonder de kwaliteiten van de bestaande toestand te verliezen. We ontwierpen een speelse plattegrond en circulatiesysteem, met als doel verbindingen en transparantie te creëren tussen het publieke domein en het programma. Die openheid wordt zowel in plan als in doorsnede uitgewerkt: via dubbele en driedubbele hoogtes, niveauverschillen binnen dezelfde verdieping, doorzichten en overlappende routes. Zo wordt niet alleen de functionele organisatie versterkt, maar ook de ruimtelijke ervaring. Daarbij wordt telkens gewerkt met een wisselend grid, zowel in plan als in snede. Dit grid ondersteunt de modulariteit, maar laat tegelijk ruimte voor variatie, spel en onverwachte relaties tussen de verschillende programmaonderdelen. De oorspronkelijke structuur krijgt een nieuwe rol: ze wordt niet louter behouden als dragend element, maar actief ingezet als ruimtestructurerend principe. Zo ontstaat een ontwerp waarin flexibiliteit en ruimtelijke beleving elkaar versterken. Bij de afbeeldingen hieronder vind je een korte versie van ons eind PDF weer" ,
-    images: },
+    images: [
+                    "images/foto17a.jpg",
+                    "images/foto17b.png"
+
+                ]
+},
   { id: "project-02", title: "Corycopsis Spicata", year: "Expressie IV - 20052026", size: "M", align: "right",
     cover: "foto18a.jpg",
     description: "Het mooiste venster van de wereld… wat is dat eigenlijk? Is het het mooie kleurtje dat het geeft, het materiaal, de extravagante vorm, of het uitzicht dat je ziet? Misschien is het wel een combinatie van al die elementen. Of gaat het net om de belevenis die je eraan koppelt. Met deze zinnen begon mijn kortverhaal over het mooiste venster van de wereld. Waarbij we vanuit ons eigen ervaring met een venster van start gingen met het bouwen aan onze voorstelling ervan. Na enkele weken te assembleren eindigde Expressie bij een kortfilm die we toonden in een zaaltje in Merelbeke.",
@@ -185,11 +190,30 @@ export const projects: Project[] = [
   { id: "project-17", title: "Bar", year: "Ontwerp I - 29102024" , size: "L", align: "right",
     cover: "foto2a.JPEG",
     description: "In de binnentuin van het klooster in de Hoogstraat in Gent ontworpen we een bar. Daarbij was het belangrijk om, via observaties van de tuin, bepaalde kenmerken te selecteren waarmee je het ontwerp van de bar kon laten samenvloeien met de bestaande structuur, zodat het geheel past binnen het bestaande gebouw. Ik heb ervoor gekozen om mijn bar in een van de hoeken van de binnentuin te plaatsen. Als vertrekpunt gebruikte ik de afmetingen tussen elementen op de gevel, en nam die over als basis voor de afmetingen van mijn ontwerp. Daarnaast heb ik twee witte lijnen die over de volledige gevel van het binnenhof lopen, doorgetrokken in het ontwerp van mijn bar, zodat er een visuele continuïteit ontstaat tussen oud en nieuw.", 
-    images: },
+    images: [
+                    "images/foto2a.JPEG",
+                    "images/foto2b.JPEG",
+                    "images/foto2c.JPEG",
+                    "images/foto2d.JPEG",
+                    "images/foto2e.JPEG",
+                    "images/foto2f.jpeg"
+                ]
+            },
   { id: "project-18", title: "Extentie 1op1/Verschaald", year: "Ontwerp I - 11102024", size: "M", align: "left",
     cover: "foto1f.JPEG",
     description: "De eerste ontwerpopdracht bestond uit twee delen. In deel één ontwierp ik samen met medestudent Tristen Cremers een extensie die aansloot bij het klooster aan de Hoogstraat, de locatie van ons project. In deel twee werkten we individueel verder: we vertaalden kenmerken van de gezamenlijke extensie naar abstracte, verschaalde vormen. Tegen het einde kregen deze opnieuw een gevoel van schaal door toevoeging van schaalfiguren.",
-    images: },
+    images: [
+                    "images/foto1f.JPEG",
+                    "images/foto1b.jpeg",
+                    "images/foto1c.jpeg",
+                    "images/foto1d.jpeg",
+                    "images/foto1e.jpeg",
+                    "images/foto1a.JPEG",
+                    "images/foto1g.JPEG",
+                    "images/foto1h.JPEG"
+                ]
+            }
+
 ];
 
 // ============================================================
