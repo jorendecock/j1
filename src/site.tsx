@@ -559,9 +559,9 @@ export function ProjectDetail({ project }: { project: Project }) {
 
       {/* masonry layout via css columns: foto's vullen verticaal de witruimte
           op zodat portret/landschap netjes naast elkaar passen zonder gaten. */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 items-start">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 place-items-start">
   {media.map((m, i) => (
-    <div key={i}>
+    <div key={i} className="w-full self-start">
       {m.type === "img" ? (
         <img
           src={m.src}
