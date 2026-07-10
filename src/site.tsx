@@ -497,9 +497,15 @@ function ProjectRow({ p }: { p: Project }) {
           </span>
         </div>
         {/* mobiel: titel ONDER de foto bij tap/hover */}
-        <span className="mt-2 block md:hidden text-[15px] tracking-tight opacity-0 transition-opacity duration-200 group-hover:opacity-100 group-active:opacity-100">
-          {p.title}
-        </span>
+        <span className="mt-2 block text-[15px] tracking-tight md:hidden">
+  {p.title}
+</span>
+
+<span
+  className={`pointer-events-none absolute bottom-0 hidden md:block whitespace-nowrap text-[17px] tracking-tight opacity-0 transition-opacity duration-200 group-hover:opacity-100 ${titleSideDesktop}`}
+>
+  {p.title}
+</span>
       </Link>
     </li>
   );
@@ -553,26 +559,30 @@ export function ProjectDetail({ project }: { project: Project }) {
 
       {/* masonry layout via css columns: foto's vullen verticaal de witruimte
           op zodat portret/landschap netjes naast elkaar passen zonder gaten. */}
-      <div className="columns-1 md:columns-2 gap-6 [column-fill:_balance]">
-        {media.map((m, i) => (
-          <div key={i} className="mb-6 break-inside-avoid">
-            {m.type === "img" ? (
-              <img src={m.src} alt="" loading="lazy" className="block w-full" />
-            ) : (
-              <div className="aspect-video w-full bg-muted">
-                <iframe
-                  src={m.src}
-                  title=""
-                  className="h-full w-full"
-                  allow="autoplay; fullscreen; picture-in-picture"
-                  allowFullScreen
-                />
-              </div>
-            )}
-          </div>
-        ))}
-      </div>
-
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 items-start">
+  {media.map((m, i) => (
+    <div key={i}>
+      {m.type === "img" ? (
+        <img
+          src={m.src}
+          alt=""
+          loading="lazy"
+          className="block w-full"
+        />
+      ) : (
+        <div className="aspect-video w-full bg-muted">
+          <iframe
+            src={m.src}
+            title=""
+            className="h-full w-full"
+            allow="autoplay; fullscreen; picture-in-picture"
+            allowFullScreen
+          />
+        </div>
+      )}
+    </div>
+  ))}
+</div>
       <div className="mt-12 text-center text-[13px] lowercase">
         <Link to="/" className="underline underline-offset-4">terug naar projecten</Link>
       </div>
