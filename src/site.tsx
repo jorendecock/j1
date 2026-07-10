@@ -192,8 +192,7 @@ export const projects: Project[] = [
   { id: "project-18", title: "Extentie 1op1/Verschaald", year: "Ontwerp I - 11102024", size: "M", align: "left",
     cover: "foto1f.JPEG",
     description: "De eerste ontwerpopdracht bestond uit twee delen. In deel één ontwierp ik samen met medestudent Tristen Cremers een extensie die aansloot bij het klooster aan de Hoogstraat, de locatie van ons project. In deel twee werkten we individueel verder: we vertaalden kenmerken van de gezamenlijke extensie naar abstracte, verschaalde vormen. Tegen het einde kregen deze opnieuw een gevoel van schaal door toevoeging van schaalfiguren.",
-    images: ["foto1f.JPEG", "foto1b.jpeg", "foto1c.jpeg", "foto1d.jpeg", "foto1e.jpeg", "foto1a.JPEG", "foto1g.JPEG", "foto1h.JPEG",]; },
-];
+    images: [ "foto1f.JPEG", "foto1b.jpeg", "foto1c.jpeg", "foto1d.jpeg", "foto1e.jpeg", "foto1a.JPEG", "foto1g.JPEG", "foto1h.JPEG", ] },
 
 // ============================================================
 //  3. INFO
