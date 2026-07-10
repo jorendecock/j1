@@ -172,7 +172,7 @@ export const projects: Project[] = [
     cover: "foto15.png",
     description: "Als finale opdracht ontwierpen we een poster waar we allerlei media zoals rhino, photoshop, grasshopper en zo veel meer moesten combineren. Hieruit maakten we dan een eigen verzonnen toren.",
     images: [
-                    "images/foto15.png"
+                    "/foto15.png"
                 ]
             },
   { id: "project-06", title: "Uvx-Xyz Boekje", year: "Media III- 02032026", size: "S", align: "left",
