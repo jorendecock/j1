@@ -121,21 +121,13 @@ export const projects: Project[] = [
     align: "left",
     cover: "foto19a.jpg",
     description: "Samen met Leonardo Spreutels en Olivia Kemel maakten we een intelligente ruine waarbij tal van functies gestappeld werden. Modulariteit vormt de leidraad binnen dit project: niet alleen voor het initiële gebruik, maar vooral ook voor de levensvatbaarheid op lange termijn.Het ontwerp streeft naar een flexibele ruimtelijke structuur die toekomstige aanpassingen mogelijk maakt, zonder de kwaliteiten van de bestaande toestand te verliezen. We ontwierpen een speelse plattegrond en circulatiesysteem, met als doel verbindingen en transparantie te creëren tussen het publieke domein en het programma. Die openheid wordt zowel in plan als in doorsnede uitgewerkt: via dubbele en driedubbele hoogtes, niveauverschillen binnen dezelfde verdieping, doorzichten en overlappende routes. Zo wordt niet alleen de functionele organisatie versterkt, maar ook de ruimtelijke ervaring. Daarbij wordt telkens gewerkt met een wisselend grid, zowel in plan als in snede. Dit grid ondersteunt de modulariteit, maar laat tegelijk ruimte voor variatie, spel en onverwachte relaties tussen de verschillende programmaonderdelen. De oorspronkelijke structuur krijgt een nieuwe rol: ze wordt niet louter behouden als dragend element, maar actief ingezet als ruimtestructurerend principe. Zo ontstaat een ontwerp waarin flexibiliteit en ruimtelijke beleving elkaar versterken. Bij de afbeeldingen hieronder vind je een korte versie van ons eind PDF weer" ,
-    images: [
-                    "/foto17a.jpg",
-                    "/foto17b.png"
-
-                ]
+    images:
 },
   { id: "project-02", title: "Corycopsis Spicata", year: "Expressie IV - 20052026", size: "M", align: "right",
     cover: "foto18a.jpg",
     description: "Het mooiste venster van de wereld… wat is dat eigenlijk? Is het het mooie kleurtje dat het geeft, het materiaal, de extravagante vorm, of het uitzicht dat je ziet? Misschien is het wel een combinatie van al die elementen. Of gaat het net om de belevenis die je eraan koppelt. Met deze zinnen begon mijn kortverhaal over het mooiste venster van de wereld. Waarbij we vanuit ons eigen ervaring met een venster van start gingen met het bouwen aan onze voorstelling ervan. Na enkele weken te assembleren eindigde Expressie bij een kortfilm die we toonden in een zaaltje in Merelbeke.",
-    images: [
-                    "/foto17a.jpg",
-                    "/foto17b.png"
-
-                ]
-            },
+    images: 
+},
   { id: "project-03", title: "Monochromatic Modeling", year: "Media IV - 03042026", size: "S", align: "center",
     cover: "foto17a.jpg",
     description: "We leerden in de workshopweek van Media met illustrator te werken en vandaaruit te lasercutten. we maakten per twee een compositie van torens waar elke toren opgemaakte naar hun eigen architecturale stijl. Bij mij was dit Art Deco." ,
