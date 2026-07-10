@@ -122,8 +122,8 @@ export const projects: Project[] = [
     cover: "foto19a.jpg",
     description: "Samen met Leonardo Spreutels en Olivia Kemel maakten we een intelligente ruine waarbij tal van functies gestappeld werden. Modulariteit vormt de leidraad binnen dit project: niet alleen voor het initiële gebruik, maar vooral ook voor de levensvatbaarheid op lange termijn.Het ontwerp streeft naar een flexibele ruimtelijke structuur die toekomstige aanpassingen mogelijk maakt, zonder de kwaliteiten van de bestaande toestand te verliezen. We ontwierpen een speelse plattegrond en circulatiesysteem, met als doel verbindingen en transparantie te creëren tussen het publieke domein en het programma. Die openheid wordt zowel in plan als in doorsnede uitgewerkt: via dubbele en driedubbele hoogtes, niveauverschillen binnen dezelfde verdieping, doorzichten en overlappende routes. Zo wordt niet alleen de functionele organisatie versterkt, maar ook de ruimtelijke ervaring. Daarbij wordt telkens gewerkt met een wisselend grid, zowel in plan als in snede. Dit grid ondersteunt de modulariteit, maar laat tegelijk ruimte voor variatie, spel en onverwachte relaties tussen de verschillende programmaonderdelen. De oorspronkelijke structuur krijgt een nieuwe rol: ze wordt niet louter behouden als dragend element, maar actief ingezet als ruimtestructurerend principe. Zo ontstaat een ontwerp waarin flexibiliteit en ruimtelijke beleving elkaar versterken. Bij de afbeeldingen hieronder vind je een korte versie van ons eind PDF weer" ,
     images: [
-                    "images/foto17a.jpg",
-                    "images/foto17b.png"
+                    "/foto17a.jpg",
+                    "/foto17b.png"
 
                 ]
 },
@@ -131,8 +131,8 @@ export const projects: Project[] = [
     cover: "foto18a.jpg",
     description: "Het mooiste venster van de wereld… wat is dat eigenlijk? Is het het mooie kleurtje dat het geeft, het materiaal, de extravagante vorm, of het uitzicht dat je ziet? Misschien is het wel een combinatie van al die elementen. Of gaat het net om de belevenis die je eraan koppelt. Met deze zinnen begon mijn kortverhaal over het mooiste venster van de wereld. Waarbij we vanuit ons eigen ervaring met een venster van start gingen met het bouwen aan onze voorstelling ervan. Na enkele weken te assembleren eindigde Expressie bij een kortfilm die we toonden in een zaaltje in Merelbeke.",
     images: [
-                    "images/foto17a.jpg",
-                    "images/foto17b.png"
+                    "/foto17a.jpg",
+                    "/foto17b.png"
 
                 ]
             },
@@ -140,8 +140,8 @@ export const projects: Project[] = [
     cover: "foto17a.jpg",
     description: "We leerden in de workshopweek van Media met illustrator te werken en vandaaruit te lasercutten. we maakten per twee een compositie van torens waar elke toren opgemaakte naar hun eigen architecturale stijl. Bij mij was dit Art Deco." ,
     images: [
-                    "images/foto17a.jpg",
-                    "images/foto17b.png"
+                    "/foto17a.jpg",
+                    "/foto17b.png"
 
                 ]
             },
@@ -149,27 +149,27 @@ export const projects: Project[] = [
     cover: "foto16f.jpg",
     description: "In de laatste beweging van Ontwerp II moesten we nu op de gekozen site elk een eigen ééngezinswoning ontwerpen. Hierbij had ik de woning het dichtst bij de industrie gelegen gekregen ook de plek waar de autos van de bewoners stonden van de cluster. Hiermee werd er eerder een pad gecreerd onder mijn woning waar ik rekening mee moest houden. Vanuit dit startpunt ben ik begonnen ontwerpen van mijn woning waarbij ik zelf de kapstokzin Dubbele Lijn heb gekozen. Kort gezegd is Dubbele Lijn een compacte flexibele ééngezinswoning waar bij de twee sterktelijnen centraal staan in het ontwerp zijn maar elk heel anders zijn. de ene volgt de lijn van de cluster en het fietspad onder de woning waarbij maximale flexibiliteit centraal staat de andere staat hier loodrecht op en zorgt voor een interresante connectie met de verwilderde tuin.",
     images: [
-                    "images/foto16a.jpg",
-                    "images/foto16b.jpg",
-                    "images/foto16c.jpg",
-                    "images/foto16d.jpg",
-                    "images/foto16e.jpg",
-                    "images/foto16f.jpg",
-                    "images/foto16g.jpg",
-                    "images/foto16h.jpeg",
-                    "images/foto16i.jpeg",
-                    "images/foto16j.jpg",
-                    "images/foto16k.jpg",
-                    "images/foto16l.png",
-                    "images/foto16m.png",
-                    "images/foto16n.png",
-                    "images/foto16o.png",
-                    "images/foto16p.jpeg",
-                    "images/foto16q.jpeg",
-                    "images/foto16r.jpeg",
-                    "images/foto16s.jpeg",
-                    "images/foto16t.jpg",
-                    "images/foto16u.jpeg"
+                    "/foto16a.jpg",
+                    "/foto16b.jpg",
+                    "/foto16c.jpg",
+                    "/foto16d.jpg",
+                    "/foto16e.jpg",
+                    "/foto16f.jpg",
+                    "/foto16g.jpg",
+                    "/foto16h.jpeg",
+                    "/foto16i.jpeg",
+                    "/foto16j.jpg",
+                    "/foto16k.jpg",
+                    "/foto16l.png",
+                    "/foto16m.png",
+                    "/foto16n.png",
+                    "/foto16o.png",
+                    "/foto16p.jpeg",
+                    "/foto16q.jpeg",
+                    "/foto16r.jpeg",
+                    "/foto16s.jpeg",
+                    "/foto16t.jpg",
+                    "/foto16u.jpeg"
                 ]
             },
   { id: "project-05", title: "Uvx-Xyz Poster", year: "Media III - 02032026", size: "M", align: "right",
@@ -183,43 +183,43 @@ export const projects: Project[] = [
     cover: "foto14c.png",
     description: "We moesten een boekje maken waarin we allerlei opdrachten moesten in bundelen dat we in de loop van de weken van het vak gemaakt hebben met onderandere rhino, grasshopper, photoshop en autocad.", 
     images: [
-                    "images/foto14b.png",
-                    "images/foto14c.png",
-                    "images/foto14d.png",
-                    "images/foto14e.png",
-                    "images/foto14f.png",
-                    "images/foto14g.png",
-                    "images/foto14h.png",
-                    "images/foto14i.png",
-                    "images/foto14j.png",
-                    "images/foto14k.png",
-                    "images/foto14l.png",
-                    "images/foto14m.png",
-                    "images/foto14n.png",
-                    "images/foto14o.png",
-                    "images/foto14p.png",
-                    "images/foto14q.png",
-                    "images/foto14r.png"
+                    "/foto14b.png",
+                    "/foto14c.png",
+                    "/foto14d.png",
+                    "/foto14e.png",
+                    "/foto14f.png",
+                    "/foto14g.png",
+                    "/foto14h.png",
+                    "/foto14i.png",
+                    "/foto14j.png",
+                    "/foto14k.png",
+                    "/foto14l.png",
+                    "/foto14m.png",
+                    "/foto14n.png",
+                    "/foto14o.png",
+                    "/foto14p.png",
+                    "/foto14q.png",
+                    "/foto14r.png"
                 ]
             },
   { id: "project-07", title: "Beweging 2", year: "Ontwerp II - 08012026", size: "L", align: "right",
     cover: "foto13a.jpg",
     description: "Voor Beweging 2 moesten we vanuit de referentie die we in Beweging 1 hebben geanalyseerd een fragment ontworpen waarbij je elementen van het oorspronkelijke gebouw gebruikt om verder op te ontwerpen. tergelijketijd ontwierpen we in groep de cluster in Kwatrecht waar dan in de laatste beweging onze eigen ééngezinswoning zal komen vanuit het fragment.",
     images: [
-                    "images/foto13a.jpg",
-                    "images/foto13b.jpg",
-                    "images/foto13c.jpg",
-                    "images/foto13d.jpg",
-                    "images/foto13e.jpg",
-                    "images/foto13f.jpg",
-                    "images/foto13g.jpeg",
-                    "images/foto13h.jpg",
-                    "images/foto13i.png",
-                    "images/foto13j.jpg",
-                    "images/foto13k.jpg",
-                    "images/foto13l.jpg",
-                    "images/foto13m.jpeg",
-                    "images/foto13n.png"
+                    "/foto13a.jpg",
+                    "/foto13b.jpg",
+                    "/foto13c.jpg",
+                    "/foto13d.jpg",
+                    "/foto13e.jpg",
+                    "/foto13f.jpg",
+                    "/foto13g.jpeg",
+                    "/foto13h.jpg",
+                    "/foto13i.png",
+                    "/foto13j.jpg",
+                    "/foto13k.jpg",
+                    "/foto13l.jpg",
+                    "/foto13m.jpeg",
+                    "/foto13n.png"
                 ]
             },
 
@@ -227,13 +227,13 @@ export const projects: Project[] = [
     cover: "foto12a.jpeg",
     description: "Samen met Thano Del'Haye en Tristen Cremers maakten we een fotosequentie van enkele bomen uit de Coupure. Elke boom heeft zijn eigen karakter en deze wilden we dan ook mooi tentoonstellen door ze in sequentie op ware grote te tonen. We trokken de foto met een speciaal gemaakte lens die aan iedere boom kon bevestigd kon worden en verstelbaar was naargelang de situatie.",
     images: [
-                    "images/foto12a.jpeg",
-                    "images/foto12b.jpeg",
-                    "images/foto12c.jpeg",
-                    "images/foto12d.jpeg",
-                    "images/foto12e.jpeg",
-                    "images/foto12f.jpeg",
-                    "images/foto12g.jpeg"
+                    "/foto12a.jpeg",
+                    "/foto12b.jpeg",
+                    "/foto12c.jpeg",
+                    "/foto12d.jpeg",
+                    "/foto12e.jpeg",
+                    "/foto12f.jpeg",
+                    "/foto12g.jpeg"
                 ]
             },
 
@@ -241,69 +241,69 @@ export const projects: Project[] = [
     cover: "foto11j.jpg",
     description: "Samen met Alexander de Paepe, Alexandre Fobe, Benjamin Declercq en Zjef De Locht analyseerde we in Beweging 1 het gebouw HANGAR 2020 van Gens architecten uit Frankrijk en het dorp Kwatrecht. Dit deden we aan de hand van maquettes, plannen, tekeningen, fascinatiebeelden enzovoort. met deze informatie bouwen we dan verder om uiteindelijk in Kwatrecht vijf eengezinswoningen te plaatsten.",
     images: [
-                    "images/foto11b.jpg",
-                    "images/foto11c.jpg",
-                    "images/foto11d.jpg",
-                    "images/foto11e.jpg",
-                    "images/foto11f.jpg",
-                    "images/foto11g.jpg",
-                    "images/foto11h.jpg",
-                    "images/foto11i.jpg",
-                    "images/foto11j.jpg",
-                    "images/foto11k.jpg",
-                    "images/foto11l.jpg",
-                    "images/foto11m.jpeg",
-                    "images/foto11n.jpeg",
-                    "images/foto11o.jpeg",
-                    "images/foto11p.jpg",
-                    "images/foto11q.jpg",
-                    "images/foto11r.jpg",
-                    "images/foto11s.jpg",
-                    "images/foto11t.jpeg",
-                    "images/foto11v.jpeg"
+                    "/foto11b.jpg",
+                    "/foto11c.jpg",
+                    "/foto11d.jpg",
+                    "/foto11e.jpg",
+                    "/foto11f.jpg",
+                    "/foto11g.jpg",
+                    "/foto11h.jpg",
+                    "/foto11i.jpg",
+                    "/foto11j.jpg",
+                    "/foto11k.jpg",
+                    "/foto11l.jpg",
+                    "/foto11m.jpeg",
+                    "/foto11n.jpeg",
+                    "/foto11o.jpeg",
+                    "/foto11p.jpg",
+                    "/foto11q.jpg",
+                    "/foto11r.jpg",
+                    "/foto11s.jpg",
+                    "/foto11t.jpeg",
+                    "/foto11v.jpeg"
                 ]
             },
   { id: "project-10", title: "Axo", year: "Zelfstandig Werk I - 04042025", size: "M", align: "right",
     cover: "foto10a.jpeg",
     description: " Een Axometrie op schaal 1-25 van de woning die we eerder maakten in Compact Wonen. Waar er de nodige aandacht moest zijn op correcte bouwknopen.", 
     images: [
-                    "images/foto10a.jpeg",
-                    "images/foto10b.jpeg",
-                    "images/foto10c.jpeg",
-                    "images/foto10d.jpeg",
-                    "images/foto10e.jpeg",
-                    "images/foto10f.jpeg",
-                    "images/foto10g.jpeg"
+                    "/foto10a.jpeg",
+                    "/foto10b.jpeg",
+                    "/foto10c.jpeg",
+                    "/foto10d.jpeg",
+                    "/foto10e.jpeg",
+                    "/foto10f.jpeg",
+                    "/foto10g.jpeg"
                 ]
             },
   { id: "project-11", title: "Plein-Place", year: "Expressie II - 04042025", size: "M", align: "left",
     cover: "foto9a.jpeg",
     description: "Samen met Zjef De Locht ontwierpen we een sokkel voor het Meiserplein in Brussel. De sokkel weerspiegelt de texturen die we terugvonden op het plein. Deze deelden we op in categorieën en lieten we in onze sokkel tot levend komen door hoogte, kleur en volgorde.", 
     images: [
-                    "images/foto9a.jpeg",
-                    "images/foto9b.JPEG",
-                    "images/foto9c.JPEG",
-                    "images/foto9d.JPEG",
-                    "images/foto9e.JPEG",
-                    "images/foto9f.JPEG"
+                    "/foto9a.jpeg",
+                    "/foto9b.JPEG",
+                    "/foto9c.JPEG",
+                    "/foto9d.JPEG",
+                    "/foto9e.JPEG",
+                    "/foto9f.JPEG"
                 ]
             },
   { id: "project-12", title: "Samen Wonen/Werken", year: "Ontwerp I - 28032025", size: "XL", align: "center",
     cover: "foto8a.JPEG",
     description: "Aan Dok Noord in Gent bevindt zich een kunstgalerij genaamd 019, gehuisvest in een voormalige staalfabriek. Het doel was om deze plek deels om te vormen tot een werkruimte waar kunst gemaakt en tentoongesteld kan worden, en deels tot wooneenheden voor kunstenaars. Een bijkomende uitdaging waren de twee richtlijnen waar ik me aan moest houden: Kopse kanten open en Tuin rondom rond, buiten wordt binnen wordt buiten. Deze zinnen vormden het uitgangspunt voor mijn ontwerpbenadering. Ik probeerde een sfeer te creëren waarin je, op elk moment en op elke plek binnen of buiten niet helemaal zeker weet of je je nu echt binnen bevindt, of juist buiten.", 
     images: [
-                    "images/foto8a.JPEG",
-                    "images/foto8b.JPEG",
-                    "images/foto8c.JPEG",
-                    "images/foto8d.JPEG",
-                    "images/foto8e.JPEG",
-                    "images/foto8f.jpeg",
-                    "images/foto8g.JPEG",
-                    "images/foto8h.jpeg",
-                    "images/foto8i.jpeg",
-                    "images/foto8j.jpeg",
-                    "images/foto8k.jpeg",
-                    "images/foto8l.jpeg"
+                    "/foto8a.JPEG",
+                    "/foto8b.JPEG",
+                    "/foto8c.JPEG",
+                    "/foto8d.JPEG",
+                    "/foto8e.JPEG",
+                    "/foto8f.jpeg",
+                    "/foto8g.JPEG",
+                    "/foto8h.jpeg",
+                    "/foto8i.jpeg",
+                    "/foto8j.jpeg",
+                    "/foto8k.jpeg",
+                    "/foto8l.jpeg"
                 ]
             },
 
@@ -311,29 +311,29 @@ export const projects: Project[] = [
     cover: "foto7a.JPEG",
     description: "Met afval dat we vonden in de Rabotwijk in Gent, maakten we een knoop, sokkel of assemblage. Hierbij hergebruikten we straatafval en transformeerden dit tot iets nieuws.In het tweede deel van het proces creëerden we een tegenknoop: een element dat een specifiek aspect van de oorspronkelijke assemblage uitlicht. Deze tegenknoop zet het werk in een nieuw perspectief en zorgt voor een andere focus in vergelijking met de sokkel. Tegelijk blijft het verschil tussen de knoop en de tegenknoop duidelijk zichtbaar. In mijn geval lichte ik de bogen van de knoop uit door deze vorm uit te beitellen.",
     images: [
-                    "images/foto7a.JPEG",
-                    "images/foto7b.JPEG",
-                    "images/foto7c.JPEG",
-                    "images/foto7d.JPEG",
-                    "images/foto7e.jpeg",
-                    "images/foto7f.JPEG",
-                    "images/foto7g.JPEG",
-                    "images/foto7h.JPEG"
+                    "/foto7a.JPEG",
+                    "/foto7b.JPEG",
+                    "/foto7c.JPEG",
+                    "/foto7d.JPEG",
+                    "/foto7e.jpeg",
+                    "/foto7f.JPEG",
+                    "/foto7g.JPEG",
+                    "/foto7h.JPEG"
                 ]
             },
   { id: "project-14", title: "Compact Wonen", year: "Ontwerp I - 07012025", size: "L", align: "right",
     cover: "foto6b.JPEG",
     description: "Om van Heusden naar de Gentse Meersen te geraken, is het momenteel onaangenaam om er te voet of met de fiets naartoe te gaan. Als oplossing stellen we de bouw van een fietsbrug over de Schelde voor, ter hoogte van de ingang van de Meersen. Aan deze brug wordt een compacte woning van 80 m2 toegevoegd, bedoeld voor twee personen, waarvan één instaat voor het beheer van de brug. Omdat de woning op een slibrijke ondergrond komt te staan, is er gekozen voor te starten vanuit een paalfundering. We mochten echter ook niet volledig kiezen hoe we begonnen aan het gebouw we starten met een referentie van een bestaand gebouw. Hier was dit de Nordic Pavilioen in Venice van Sverre Fehn." ,
     images: [
-                    "images/foto6a.JPEG",
-                    "images/foto6b.JPEG",
-                    "images/foto6c.jpeg",
-                    "images/foto6d.jpeg",
-                    "images/foto6e.jpeg",
-                    "images/foto6f.jpeg",
-                    "images/foto6g.jpeg",
-                    "images/foto6h.jpeg",
-                    "images/foto6i.jpg"
+                    "/foto6a.JPEG",
+                    "/foto6b.JPEG",
+                    "/foto6c.jpeg",
+                    "/foto6d.jpeg",
+                    "/foto6e.jpeg",
+                    "/foto6f.jpeg",
+                    "/foto6g.jpeg",
+                    "/foto6h.jpeg",
+                    "/foto6i.jpg"
                 ]
             },
 
@@ -341,43 +341,43 @@ export const projects: Project[] = [
     cover: "foto5a.JPEG",
     description: "Tekening van een graf en zijn omgeving in de Westbegraafplaats in Gent. Waarbij het meetbare en niet-meetbare samenkomt.", 
     images: [
-                    "images/foto5a.JPEG",
-                    "images/foto5b.JPEG",
-                    "images/foto5c.JPEG",
-                    "images/foto5d.JPEG"
+                    "/foto5a.JPEG",
+                    "/foto5b.JPEG",
+                    "/foto5c.JPEG",
+                    "/foto5d.JPEG"
                 ]
             },
   { id: "project-16", title: "Box Box Box", year: "Media I - 22112024" , size: "S", align: "center",
     cover: "foto3a.JPEG",
     description: "In deze tekenopdracht moesten we vier houtskooltekeningen maken van gestapelde kartonnen dozen. De opdracht was om deze zo realistisch mogelijk weer te geven, met behulp van diverse tekentechnieken.", 
     images: [
-                    "images/foto3a.JPEG",
-                    "images/foto3b.JPEG",
-                    "images/foto3c.JPEG",
-                    "images/foto3d.JPEG"
+                    "/foto3a.JPEG",
+                    "/foto3b.JPEG",
+                    "/foto3c.JPEG",
+                    "/foto3d.JPEG"
                 ]
             },
   { id: "project-17", title: "Bar", year: "Ontwerp I - 29102024" , size: "L", align: "right",
     cover: "foto2a.JPEG",
     description: "In de binnentuin van het klooster in de Hoogstraat in Gent ontworpen we een bar. Daarbij was het belangrijk om, via observaties van de tuin, bepaalde kenmerken te selecteren waarmee je het ontwerp van de bar kon laten samenvloeien met de bestaande structuur, zodat het geheel past binnen het bestaande gebouw. Ik heb ervoor gekozen om mijn bar in een van de hoeken van de binnentuin te plaatsen. Als vertrekpunt gebruikte ik de afmetingen tussen elementen op de gevel, en nam die over als basis voor de afmetingen van mijn ontwerp. Daarnaast heb ik twee witte lijnen die over de volledige gevel van het binnenhof lopen, doorgetrokken in het ontwerp van mijn bar, zodat er een visuele continuïteit ontstaat tussen oud en nieuw.", 
     images: [
-                    "images/foto2a.JPEG",
-                    "images/foto2b.JPEG",
-                    "images/foto2c.JPEG",
-                    "images/foto2d.JPEG",
-                    "images/foto2e.JPEG",
-                    "images/foto2f.jpeg"
+                    "/foto2a.JPEG",
+                    "/foto2b.JPEG",
+                    "/foto2c.JPEG",
+                    "/foto2d.JPEG",
+                    "/foto2e.JPEG",
+                    "/foto2f.jpeg"
                 ]
             },
   { id: "project-18", title: "Extentie 1op1/Verschaald", year: "Ontwerp I - 11102024", size: "M", align: "left",
     cover: "foto1f.JPEG",
     description: "De eerste ontwerpopdracht bestond uit twee delen. In deel één ontwierp ik samen met medestudent Tristen Cremers een extensie die aansloot bij het klooster aan de Hoogstraat, de locatie van ons project. In deel twee werkten we individueel verder: we vertaalden kenmerken van de gezamenlijke extensie naar abstracte, verschaalde vormen. Tegen het einde kregen deze opnieuw een gevoel van schaal door toevoeging van schaalfiguren.",
     images: [
-                    "foto1f.JPEG",
-                    "foto1b.jpeg",
-                    "foto1c.jpeg",
-                    "foto1d.jpeg",
-                    "foto1e.jpeg",
+                    "/foto1f.JPEG",
+                    "/foto1b.jpeg",
+                    "/foto1c.jpeg",
+                    "/foto1d.jpeg",
+                    "/foto1e.jpeg",
                     "/foto1a.JPEG",
                     "/foto1g.JPEG",
                     "/foto1h.JPEG"
