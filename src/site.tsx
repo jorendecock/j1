@@ -131,6 +131,10 @@ export const projects: Project[] = [
     images: [
                     "/foto18a.jpg"
                 ]
+links: [
+    { label: "video", url: "https://www.youtube.com/watch?v=zpHM_ftUh8k" },
+  ],
+
             },
   { id: "project-03", title: "Monochromatic Modeling", year: "Media IV - 03042026", size: "S", align: "center",
     cover: "foto17a.jpg",
