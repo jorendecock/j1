@@ -130,7 +130,7 @@ export const projects: Project[] = [
     description: "Het mooiste venster van de wereld… wat is dat eigenlijk? Is het het mooie kleurtje dat het geeft, het materiaal, de extravagante vorm, of het uitzicht dat je ziet? Misschien is het wel een combinatie van al die elementen. Of gaat het net om de belevenis die je eraan koppelt. Met deze zinnen begon mijn kortverhaal over het mooiste venster van de wereld. Waarbij we vanuit ons eigen ervaring met een venster van start gingen met het bouwen aan onze voorstelling ervan. Na enkele weken te assembleren eindigde Expressie bij een kortfilm die we toonden in een zaaltje in Merelbeke.",
     images: [
                     "/foto18a.jpg"
-                ]
+                ],
 links: [
     { label: "video", url: "https://www.youtube.com/watch?v=zpHM_ftUh8k" },
   ],
